@@ -1,0 +1,2 @@
+# Airline-Reservation-System
+This is simple Airline Reservation System developed by Anubhav Ghosh, Arijit Dutta and Aninda Roy which accesses a flight database, credit card database and a user database and runs on Java Swing. This has been developed for the fifth semester SWE and OOP project for the term 2018-2022. For more details regarding the project, visit: http://103.127.146.165/wiki/index.php?title=RSS:Main
